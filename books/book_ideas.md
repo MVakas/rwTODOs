@@ -4,6 +4,6 @@
 - [x] Advanced debugging and reverse engineering
 - [ ] Animal husbandry by tutorials
 - [ ] Beginning tree surgery
-- [X] CVS by tutorials
+- [ ] CVS by tutorials
 - [x] Fortran for fun and profit
 - [x] RxSwift by tutorials
